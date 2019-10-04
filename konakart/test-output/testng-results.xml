@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="22648" started-at="2019-10-04T11:58:44Z" finished-at="2019-10-04T11:59:07Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="22648" started-at="2019-10-04T11:58:44Z" finished-at="2019-10-04T11:59:07Z">
+      <class name="com.konakart.testscript.TestScript">
+        <test-method status="PASS" signature="setBrowser(java.lang.String)[pri:0, instance:com.konakart.testscript.TestScript@5f341870]" name="setBrowser" is-config="true" duration-ms="15724" started-at="2019-10-04T11:58:44Z" finished-at="2019-10-04T11:59:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="OutComeOfSearch(java.lang.String, java.lang.String)[pri:0, instance:com.konakart.testscript.TestScript@5f341870]" name="OutComeOfSearch" duration-ms="1364" started-at="2019-10-04T11:59:01Z" data-provider="userData" finished-at="2019-10-04T11:59:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[All]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mobile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OutComeOfSearch -->
+        <test-method status="PASS" signature="OutComeOfSearch(java.lang.String, java.lang.String)[pri:0, instance:com.konakart.testscript.TestScript@5f341870]" name="OutComeOfSearch" duration-ms="1227" started-at="2019-10-04T11:59:03Z" data-provider="userData" finished-at="2019-10-04T11:59:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Games]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mobiles]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OutComeOfSearch -->
+        <test-method status="PASS" signature="OutComeOfSearch(java.lang.String, java.lang.String)[pri:0, instance:com.konakart.testscript.TestScript@5f341870]" name="OutComeOfSearch" duration-ms="1292" started-at="2019-10-04T11:59:04Z" data-provider="userData" finished-at="2019-10-04T11:59:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[All]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[konakart manual]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OutComeOfSearch -->
+        <test-method status="PASS" signature="OutComeOfSearch(java.lang.String, java.lang.String)[pri:0, instance:com.konakart.testscript.TestScript@5f341870]" name="OutComeOfSearch" duration-ms="1951" started-at="2019-10-04T11:59:05Z" data-provider="userData" finished-at="2019-10-04T11:59:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home & Garden]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[clock]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OutComeOfSearch -->
+      </class> <!-- com.konakart.testscript.TestScript -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
