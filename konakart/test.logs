@@ -1,0 +1,594 @@
+2019-10-09 14:05:42 INFO  ItemMessageValidation:34 - displayed error message is correct and message is: There are no available products.
+2019-10-09 14:05:54 INFO  ItemMessageValidation:43 - item name is Cadiz Clock
+2019-10-09 14:05:54 INFO  ItemMessageValidation:43 - item name is 60s Pluto Starburst Clock
+2019-10-09 14:05:54 INFO  ItemMessageValidation:43 - item name is Acctim Metal Clock
+2019-10-09 14:05:54 INFO  ItemMessageValidation:43 - item name is Vision Clock
+2019-10-09 14:05:54 INFO  ItemMessageValidation:43 - item name is Milan 93 Clock
+2019-10-09 14:05:54 INFO  ItemMessageValidation:43 - item name is Ministry Clock
+2019-10-09 14:05:55 INFO  ItemMessageValidation:43 - item name is Weather Station Clock
+2019-10-09 14:05:55 INFO  ItemMessageValidation:43 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 14:06:07 INFO  ItemMessageValidation:43 - item name is Cadiz Clock
+2019-10-09 14:06:07 INFO  ItemMessageValidation:43 - item name is 60s Pluto Starburst Clock
+2019-10-09 14:06:07 INFO  ItemMessageValidation:43 - item name is Acctim Metal Clock
+2019-10-09 14:06:07 INFO  ItemMessageValidation:43 - item name is Vision Clock
+2019-10-09 14:06:07 INFO  ItemMessageValidation:43 - item name is Milan 93 Clock
+2019-10-09 14:06:07 INFO  ItemMessageValidation:43 - item name is Ministry Clock
+2019-10-09 14:06:07 INFO  ItemMessageValidation:43 - item name is Weather Station Clock
+2019-10-09 14:06:07 INFO  ItemMessageValidation:43 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 14:06:09 INFO  ItemMessageValidation:34 - displayed error message is correct and message is: There are no available products.
+2019-10-09 14:12:02 INFO  BaseClass:26 - dropdowntext is: Electronics searched product is: Clock
+2019-10-09 14:12:03 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 14:12:04 INFO  BaseClass:26 - dropdowntext is: All searched product is: Clock
+2019-10-09 14:12:16 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 14:12:16 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 14:12:16 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 14:12:16 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 14:12:16 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 14:12:16 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 14:12:16 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 14:12:16 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 14:12:16 INFO  BaseClass:26 - dropdowntext is: Home & Garden searched product is: Clock
+2019-10-09 14:12:28 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 14:12:28 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 14:12:28 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 14:12:28 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 14:12:28 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 14:12:28 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 14:12:28 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 14:12:28 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 14:12:28 INFO  BaseClass:26 - dropdowntext is: Gifts searched product is: Clock
+2019-10-09 14:12:30 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 14:34:23 INFO  BaseClass:26 - dropdowntext is: Electronics searched product is: Clock
+2019-10-09 14:34:24 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 14:34:24 INFO  BaseClass:26 - dropdowntext is: All searched product is: Clock
+2019-10-09 14:34:36 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 14:34:36 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 14:34:36 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 14:34:36 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 14:34:36 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 14:34:36 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 14:34:36 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 14:34:36 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 14:34:36 INFO  BaseClass:26 - dropdowntext is: Home & Garden searched product is: Clock
+2019-10-09 14:34:48 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 14:34:48 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 14:34:48 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 14:34:48 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 14:34:48 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 14:34:48 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 14:34:48 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 14:34:48 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 14:34:49 INFO  BaseClass:26 - dropdowntext is: Gifts searched product is: Clock
+2019-10-09 14:34:50 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 15:08:15 INFO  BaseClass:26 - dropdowntext is: Electronics searched product is: Clock
+2019-10-09 15:08:16 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 15:08:17 INFO  BaseClass:26 - dropdowntext is: All searched product is: Clock
+2019-10-09 15:08:28 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 15:08:28 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 15:08:28 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 15:08:28 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 15:08:28 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 15:08:28 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 15:08:28 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 15:08:28 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 15:08:29 INFO  BaseClass:26 - dropdowntext is: Home & Garden searched product is: Clock
+2019-10-09 15:08:41 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 15:08:41 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 15:08:41 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 15:08:41 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 15:08:41 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 15:08:41 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 15:08:41 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 15:08:41 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 15:08:41 INFO  BaseClass:26 - dropdowntext is: Gifts searched product is: Clock
+2019-10-09 15:08:43 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 15:24:42 INFO  ValidationOfEachContentPage:26 - selected content is current & current content is Product Description
+Specifications
+Customer Reviews (3)
+2019-10-09 15:28:07 INFO  ValidationOfEachContentPage:26 - selected content is current & current content is Product Description
+2019-10-09 15:28:07 INFO  ValidationOfEachContentPage:26 - selected content is current & current content is Specifications
+2019-10-09 15:28:07 INFO  ValidationOfEachContentPage:26 - selected content is current & current content is Customer Reviews (3)
+2019-10-09 15:34:55 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 15:34:55 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 15:34:55 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 15:43:40 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 15:43:40 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 15:43:40 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 16:46:50 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 16:46:50 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 16:46:50 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 16:47:52 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 16:47:53 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 16:47:53 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 17:17:51 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 17:17:51 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 17:17:51 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 17:19:00 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 17:19:00 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 17:19:00 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 17:21:58 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 17:21:58 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 17:21:59 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 17:27:37 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 17:27:37 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 17:27:37 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 17:29:03 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 17:29:03 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 17:29:03 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 17:30:00 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 17:30:00 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 17:30:00 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 17:31:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 17:31:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 17:31:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 17:59:16 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 17:59:16 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 17:59:16 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 18:02:33 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 18:02:33 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 18:02:33 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 18:11:01 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 18:11:02 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 18:11:02 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 18:12:17 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 18:12:17 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 18:12:18 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 18:13:37 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 18:13:37 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 18:13:37 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 18:21:15 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 18:21:15 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 18:21:15 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 18:30:40 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 18:30:40 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 18:30:40 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 18:30:40 INFO  SortingValidationHelper:27 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 18:30:40 INFO  SortingValidationHelper:27 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 18:30:40 INFO  SortingValidationHelper:27 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 18:30:40 INFO  SortingValidationHelper:29 - [2184, 2344, 2435]
+2019-10-09 18:30:43 INFO  SortingValidationHelper:27 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 18:30:43 INFO  SortingValidationHelper:27 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 18:30:43 INFO  SortingValidationHelper:27 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 18:30:43 INFO  SortingValidationHelper:29 - [2435, 2344, 2184]
+2019-10-09 18:54:11 INFO  BaseClass:26 - dropdowntext is: Electronics searched product is: Clock
+2019-10-09 18:54:13 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 18:54:13 INFO  BaseClass:26 - dropdowntext is: All searched product is: Clock
+2019-10-09 18:54:25 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 18:54:25 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 18:54:25 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 18:54:25 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 18:54:25 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 18:54:25 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 18:54:25 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 18:54:25 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 18:54:25 INFO  BaseClass:26 - dropdowntext is: Home & Garden searched product is: Clock
+2019-10-09 18:54:37 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 18:54:37 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 18:54:37 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 18:54:37 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 18:54:37 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 18:54:38 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 18:54:38 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 18:54:38 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 18:54:38 INFO  BaseClass:26 - dropdowntext is: Gifts searched product is: Clock
+2019-10-09 18:54:39 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 18:55:00 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 18:55:00 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 18:55:00 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 18:55:00 INFO  SortingValidationHelper:27 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 18:55:00 INFO  SortingValidationHelper:27 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 18:55:00 INFO  SortingValidationHelper:27 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 18:55:00 INFO  SortingValidationHelper:29 - [2184, 2344, 2435]
+2019-10-09 18:55:03 INFO  SortingValidationHelper:27 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 18:55:03 INFO  SortingValidationHelper:27 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 18:55:03 INFO  SortingValidationHelper:27 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 18:55:03 INFO  SortingValidationHelper:29 - [2435, 2344, 2184]
+2019-10-09 19:00:00 INFO  BaseClass:26 - dropdowntext is: Electronics searched product is: Clock
+2019-10-09 19:00:03 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 19:00:03 INFO  BaseClass:26 - dropdowntext is: All searched product is: Clock
+2019-10-09 19:00:17 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 19:00:17 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 19:00:17 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 19:00:17 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 19:00:17 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 19:00:17 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 19:00:17 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 19:00:17 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 19:00:17 INFO  BaseClass:26 - dropdowntext is: Home & Garden searched product is: Clock
+2019-10-09 19:00:30 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 19:00:30 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 19:00:30 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 19:00:30 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 19:00:30 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 19:00:30 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 19:00:30 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 19:00:30 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 19:00:30 INFO  BaseClass:26 - dropdowntext is: Gifts searched product is: Clock
+2019-10-09 19:00:32 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 19:00:51 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 19:00:51 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 19:00:51 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 19:00:52 INFO  SortingValidationHelper:32 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 19:00:52 INFO  SortingValidationHelper:32 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 19:00:52 INFO  SortingValidationHelper:32 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 19:00:52 INFO  SortingValidationHelper:35 - [2184, 2344, 2435]
+2019-10-09 19:00:54 INFO  SortingValidationHelper:32 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 19:00:54 INFO  SortingValidationHelper:32 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 19:00:54 INFO  SortingValidationHelper:32 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 19:00:54 INFO  SortingValidationHelper:35 - [2435, 2344, 2184]
+2019-10-09 19:13:19 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 19:13:19 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 19:13:19 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 19:13:19 INFO  SortingValidationHelper:32 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 19:13:19 INFO  SortingValidationHelper:32 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 19:13:19 INFO  SortingValidationHelper:32 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 19:13:19 INFO  SortingValidationHelper:32 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 19:13:19 INFO  SortingValidationHelper:35 - [1189, 1392, 1475, 2133]
+2019-10-09 19:13:25 INFO  SortingValidationHelper:32 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 19:13:25 INFO  SortingValidationHelper:32 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 19:13:25 INFO  SortingValidationHelper:32 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 19:13:25 INFO  SortingValidationHelper:32 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 19:13:25 INFO  SortingValidationHelper:35 - [2133, 1475, 1392, 1189]
+2019-10-09 19:40:31 INFO  BaseClass:26 - dropdowntext is: Electronics searched product is: Clock
+2019-10-09 19:40:32 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 19:40:33 INFO  BaseClass:26 - dropdowntext is: All searched product is: Clock
+2019-10-09 19:40:44 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 19:40:44 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 19:40:44 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 19:40:44 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 19:40:44 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 19:40:44 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 19:40:44 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 19:40:44 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 19:40:45 INFO  BaseClass:26 - dropdowntext is: Home & Garden searched product is: Clock
+2019-10-09 19:40:58 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 19:40:58 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 19:40:58 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 19:40:58 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 19:40:58 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 19:40:58 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 19:40:58 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 19:40:58 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 19:40:58 INFO  BaseClass:26 - dropdowntext is: Gifts searched product is: Clock
+2019-10-09 19:41:00 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 19:41:19 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 19:41:19 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 19:41:19 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 19:41:19 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 19:41:19 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 19:41:19 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 19:41:19 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 19:41:19 INFO  SortingValidationHelper:43 - [1189, 1392, 1475, 2133]
+2019-10-09 19:41:22 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 19:41:22 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 19:41:22 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 19:41:22 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 19:41:22 INFO  SortingValidationHelper:43 - [2133, 1475, 1392, 1189]
+2019-10-09 19:52:28 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 19:52:28 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 19:52:28 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 19:52:28 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 19:52:28 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 19:52:28 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 19:52:28 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 19:52:31 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 19:52:31 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 19:52:31 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 19:52:31 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 19:55:21 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 19:55:21 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 19:55:21 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 19:55:21 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 19:55:21 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 19:55:22 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 19:55:22 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 19:55:24 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 19:55:24 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 19:55:24 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 19:55:24 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 19:58:22 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 19:58:22 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 19:58:22 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 19:58:22 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 19:58:22 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 19:58:23 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 19:58:23 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 19:58:23 INFO  SortingValidationHelper:43 - [1189, 1392, 1475, 2133]
+2019-10-09 19:58:25 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 19:58:25 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 19:58:25 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 19:58:25 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 19:58:25 INFO  SortingValidationHelper:43 - [2133, 1475, 1392, 1189]
+2019-10-09 20:00:14 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:00:14 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:00:14 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 20:00:15 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:00:15 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:00:15 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:00:15 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:00:15 INFO  SortingValidationHelper:43 - [1189, 1392, 1475, 2133]
+2019-10-09 20:00:17 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:00:17 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:00:17 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:00:17 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:00:17 INFO  SortingValidationHelper:43 - [2133, 1475, 1392, 1189]
+2019-10-09 20:05:18 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:05:18 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:05:19 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 20:05:19 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:05:19 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:05:19 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:05:19 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:05:19 INFO  SortingValidationHelper:43 - [1189, 1392, 1475, 2133]
+2019-10-09 20:05:21 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:05:21 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:05:21 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:05:21 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:05:21 INFO  SortingValidationHelper:43 - [2133, 1475, 1392, 1189]
+2019-10-09 20:09:56 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:09:56 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:09:57 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 20:10:07 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:10:07 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:10:07 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:10:07 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 20:10:10 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:10:10 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:10:10 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:10:10 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 20:12:02 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:12:02 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:12:03 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 20:12:03 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:12:03 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:12:03 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:12:03 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:12:03 INFO  SortingValidationHelper:43 - [1189, 1392, 1475, 2133]
+2019-10-09 20:12:06 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:12:06 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:12:06 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:12:06 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:12:06 INFO  SortingValidationHelper:43 - [2133, 1475, 1392, 1189]
+2019-10-09 20:14:52 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:14:52 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:14:53 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 20:14:53 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:14:53 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:14:53 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:14:53 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 20:14:55 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:14:55 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:14:55 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:14:55 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 20:21:38 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:21:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:21:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 20:21:39 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:21:39 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:21:39 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:21:39 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:21:39 INFO  SortingValidationHelper:43 - [1189, 1392, 1475, 2133]
+2019-10-09 20:21:42 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:21:42 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:21:42 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:21:42 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:21:42 INFO  SortingValidationHelper:43 - [2133, 1475, 1392, 1189]
+2019-10-09 20:25:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:25:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:25:40 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 20:25:40 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:25:40 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:25:40 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:25:40 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 20:25:42 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:25:42 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:25:42 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:25:42 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 20:28:04 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:28:05 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:28:05 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 20:28:05 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:28:05 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:28:05 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:28:05 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:28:05 INFO  SortingValidationHelper:43 - [1189, 1392, 1475, 2133]
+2019-10-09 20:28:07 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:28:07 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:28:08 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:28:08 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:28:08 INFO  SortingValidationHelper:43 - [2133, 1475, 1392, 1189]
+2019-10-09 20:32:52 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:32:52 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:32:52 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 20:32:52 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:32:52 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:32:53 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:32:53 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:32:53 INFO  SortingValidationHelper:43 - [1189, 1392, 1475, 2133]
+2019-10-09 20:32:55 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:32:55 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:32:55 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:32:55 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:32:55 INFO  SortingValidationHelper:43 - [2133, 1475, 1392, 1189]
+2019-10-09 20:33:47 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:33:47 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:33:47 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 20:33:47 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:33:48 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:33:48 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:33:48 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 20:33:50 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:33:50 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:33:50 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:33:50 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 20:35:40 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:35:40 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:35:40 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 20:35:40 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:35:40 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:35:40 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:35:40 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 20:35:44 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:35:44 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:35:44 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:35:44 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 20:40:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:40:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:40:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 20:40:39 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:40:39 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:40:40 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:40:40 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:40:40 INFO  SortingValidationHelper:43 - [1189, 1392, 1475, 2133]
+2019-10-09 20:40:42 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:40:42 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:40:42 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:40:42 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:40:42 INFO  SortingValidationHelper:43 - [2133, 1475, 1392, 1189]
+2019-10-09 20:42:37 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:42:38 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:42:38 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 20:42:38 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:42:38 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:42:38 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:42:38 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 20:42:41 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:42:41 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:42:41 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:42:41 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 20:45:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:45:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:45:39 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 20:45:40 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:45:40 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:45:40 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:45:40 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 20:45:42 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:45:42 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:45:42 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:45:42 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 20:50:32 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:50:33 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:50:33 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 20:50:33 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:50:33 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:50:33 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:50:33 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:50:33 INFO  SortingValidationHelper:43 - [1189, 1392, 1475, 2133]
+2019-10-09 20:50:35 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 20:50:35 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 20:50:35 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 20:50:35 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 20:50:35 INFO  SortingValidationHelper:43 - [2133, 1475, 1392, 1189]
+2019-10-09 20:51:52 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:51:52 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:51:52 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 20:51:52 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:51:52 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:51:52 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:51:52 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 20:51:55 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:51:55 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:51:55 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:51:55 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 20:56:18 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 20:56:18 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 20:56:18 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 20:56:18 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:56:18 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:56:18 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:56:18 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 20:56:21 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 20:56:21 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 20:56:21 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 20:56:21 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 21:06:06 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 21:06:07 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 21:06:07 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (4) & current content is Customer Reviews (4)
+2019-10-09 21:06:07 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 21:06:07 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 21:06:07 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 21:06:07 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 21:06:07 INFO  SortingValidationHelper:43 - [1189, 1392, 1475, 2133]
+2019-10-09 21:06:10 INFO  SortingValidationHelper:40 - date is Friday 6 December 2013 difference in date is 2133
+2019-10-09 21:06:10 INFO  SortingValidationHelper:40 - date is Friday 25 September 2015 difference in date is 1475
+2019-10-09 21:06:10 INFO  SortingValidationHelper:40 - date is Thursday 17 December 2015 difference in date is 1392
+2019-10-09 21:06:10 INFO  SortingValidationHelper:40 - date is Thursday 7 July 2016 difference in date is 1189
+2019-10-09 21:06:10 INFO  SortingValidationHelper:43 - [2133, 1475, 1392, 1189]
+2019-10-09 21:39:13 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 21:39:13 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 21:39:13 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 21:39:13 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 21:39:13 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 21:39:13 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 21:39:13 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 21:39:16 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 21:39:16 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 21:39:16 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 21:39:16 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 21:44:54 INFO  ValidationOfEachContentPage:32 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 21:44:55 INFO  ValidationOfEachContentPage:32 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 21:44:55 INFO  ValidationOfEachContentPage:32 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 21:44:55 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 21:44:55 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 21:44:55 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 21:44:55 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 21:44:58 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 21:44:59 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 21:44:59 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 21:44:59 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 21:51:11 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 21:51:11 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 21:51:11 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 21:51:11 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 21:51:11 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 21:51:11 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 21:51:11 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 21:51:14 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 21:51:14 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 21:51:14 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 21:51:14 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 21:54:37 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 21:54:38 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 21:54:38 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 21:54:38 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 21:54:38 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 21:54:38 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 21:54:38 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 21:54:41 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 21:54:41 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 21:54:41 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 21:54:41 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]
+2019-10-09 21:56:16 INFO  BaseClass:27 - dropdowntext is: Electronics searched product is: Clock
+2019-10-09 21:56:17 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 21:56:17 INFO  BaseClass:27 - dropdowntext is: All searched product is: Clock
+2019-10-09 21:56:30 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 21:56:30 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 21:56:30 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 21:56:30 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 21:56:30 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 21:56:30 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 21:56:30 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 21:56:30 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 21:56:30 INFO  BaseClass:27 - dropdowntext is: Home & Garden searched product is: Clock
+2019-10-09 21:56:43 INFO  ItemMessageValidation:33 - item name is Cadiz Clock
+2019-10-09 21:56:43 INFO  ItemMessageValidation:33 - item name is 60s Pluto Starburst Clock
+2019-10-09 21:56:43 INFO  ItemMessageValidation:33 - item name is Acctim Metal Clock
+2019-10-09 21:56:43 INFO  ItemMessageValidation:33 - item name is Vision Clock
+2019-10-09 21:56:43 INFO  ItemMessageValidation:33 - item name is Milan 93 Clock
+2019-10-09 21:56:43 INFO  ItemMessageValidation:33 - item name is Ministry Clock
+2019-10-09 21:56:43 INFO  ItemMessageValidation:33 - item name is Weather Station Clock
+2019-10-09 21:56:43 INFO  ItemMessageValidation:33 - item name is Westclox 32042r Retro 1950 Kitchen Wall Clock 9.5-inch Red
+2019-10-09 21:56:43 INFO  BaseClass:27 - dropdowntext is: Gifts searched product is: Clock
+2019-10-09 21:56:45 INFO  ItemMessageValidation:22 - displayed error message is correct and message is: There are no available products.
+2019-10-09 22:08:00 INFO  ValidationOfEachContentPage:34 - passed: selected content is Product Description & current content is Product Description
+2019-10-09 22:08:00 INFO  ValidationOfEachContentPage:34 - passed: selected content is Specifications & current content is Specifications
+2019-10-09 22:08:00 INFO  ValidationOfEachContentPage:34 - passed: selected content is Customer Reviews (3) & current content is Customer Reviews (3)
+2019-10-09 22:08:00 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 22:08:00 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 22:08:01 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 22:08:01 INFO  SortingValidationHelper:43 - [2184, 2344, 2435]
+2019-10-09 22:08:04 INFO  SortingValidationHelper:40 - date is Thursday 7 February 2013 difference in date is 2435
+2019-10-09 22:08:04 INFO  SortingValidationHelper:40 - date is Thursday 9 May 2013 difference in date is 2344
+2019-10-09 22:08:04 INFO  SortingValidationHelper:40 - date is Wednesday 16 October 2013 difference in date is 2184
+2019-10-09 22:08:04 INFO  SortingValidationHelper:43 - [2435, 2344, 2184]

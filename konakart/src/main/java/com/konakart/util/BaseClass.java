@@ -5,18 +5,26 @@ package com.konakart.util;
 
 
 import java.io.IOException;
+
 import java.util.Properties;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 
+import com.konakart.helper.ElementHelper;
+import com.konakart.helper.ExtentReport;
+import com.konakart.helper.KonakartExtendReport;
 
 
 
-public class BaseClass {
+
+public class BaseClass  {
+public 	ElementHelper helper=new ElementHelper();
+public static Logger log=Logger.getLogger(BaseClass.class);
 	public  WebDriver driver;
 /**
  * select driver class type
@@ -57,7 +65,7 @@ public class BaseClass {
 		PageManager.manageTimeOuts(driver);
 		PageManager.loadpropertyFile(Constants.driverPropertiesFilePath, property);
 		driver.get(property.getProperty("url"));
-		
+		KonakartExtendReport.reportLog(" BaseClass", "failed");
 		
 	}
 	

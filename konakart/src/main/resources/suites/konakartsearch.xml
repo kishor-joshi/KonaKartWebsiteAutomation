@@ -5,7 +5,7 @@
   <parameter name="browserType" value="chrome" />
   
     <classes>
-      <class name="com.konakart.testscript.TestScript"/>
+      <class name="com.konakart.searchproducttestscript.SearchProductTestScript"/>
     </classes>
   </test> <!-- Test2 -->
 </suite> <!-- Suite1 -->

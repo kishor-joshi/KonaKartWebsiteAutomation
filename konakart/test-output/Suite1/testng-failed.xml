@@ -4,12 +4,12 @@
   <test thread-count="5" name="Test2(failed)">
     <parameter name="browserType" value="chrome"/>
     <classes>
-      <class name="com.konakart.testscript.TestScript">
+      <class name="com.konakart.searchproducttestscript.SpecificProductValidationScript">
         <methods>
-          <include name="OutComeOfSearch" invocation-numbers="0 1 2 3"/>
           <include name="setBrowser"/>
+          <include name="navigateToProductDetails"/>
         </methods>
-      </class> <!-- com.konakart.testscript.TestScript -->
+      </class> <!-- com.konakart.searchproducttestscript.SpecificProductValidationScript -->
     </classes>
   </test> <!-- Test2(failed) -->
 </suite> <!-- Failed suite [Suite1] -->

@@ -35,4 +35,10 @@ public class PageManager
 		Select dropdown = new Select(driver.findElement(By.xpath(dropDownXpath)));  
 		dropdown.selectByVisibleText(dropDownText);
 	}
+	public static void scrollAndViewAtTop(WebDriver driver,WebElement element) {
+		JavascriptExecutor js = (JavascriptExecutor) driver;
+		js.executeScript("arguments[0].scrollIntoView();", element);
+	}
+	
+
 }
